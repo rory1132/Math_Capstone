@@ -1,2 +1,1 @@
-# Math_Capstone
-# Final year capstone on matrix completion using Python
+# Final year capstone project on matrix completion using Python
