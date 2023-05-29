@@ -1,1 +1,1 @@
-# Final year capstone project on matrix completion using Python
+# Capstone project on matrix completion using Python
